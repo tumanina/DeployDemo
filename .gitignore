@@ -1,0 +1,7 @@
+.vs/
+DeployDemo.Tests/bin/
+DeployDemo.Tests/obj/
+DeployDemo/bin/Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+DeployDemo/bin/
+DeployDemo/obj/
+packages/

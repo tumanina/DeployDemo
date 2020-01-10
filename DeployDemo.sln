@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29519.181
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DeployDemo", "DeployDemo\DeployDemo.csproj", "{2FEFD125-2987-4B7A-A506-7B5D898D0DF9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DeployDemo.Tests", "DeployDemo.Tests\DeployDemo.Tests.csproj", "{BB320C3A-EAC0-48B8-941C-25AB05ACB2A7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2FEFD125-2987-4B7A-A506-7B5D898D0DF9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2FEFD125-2987-4B7A-A506-7B5D898D0DF9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2FEFD125-2987-4B7A-A506-7B5D898D0DF9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2FEFD125-2987-4B7A-A506-7B5D898D0DF9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BB320C3A-EAC0-48B8-941C-25AB05ACB2A7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BB320C3A-EAC0-48B8-941C-25AB05ACB2A7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BB320C3A-EAC0-48B8-941C-25AB05ACB2A7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BB320C3A-EAC0-48B8-941C-25AB05ACB2A7}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D16F313E-A9AA-4C1A-9D8F-89BE25D3EFE7}
+	EndGlobalSection
+EndGlobal
