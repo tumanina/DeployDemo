@@ -12,7 +12,7 @@ namespace DeployDemo.Controllers
         // GET api/values
         public IEnumerable<string> Get()
         {
-            return new string[] { "value124", "value255" };
+            return new string[] { "new value 1", "new value 2" };
         }
 
         // GET api/values/5
